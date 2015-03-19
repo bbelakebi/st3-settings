@@ -1,0 +1,4 @@
+[
+	{ "keys": ["f10"], "command": "sftp_upload_file" },
+	{ "keys": ["f10"], "command": "sftp_browse_server" }
+]
